@@ -34,10 +34,4 @@ Contributions to ChatBot are welcome! If you have ideas for new features, improv
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- OpenAI for providing access to the GPT-4 model.
-- Semantic Kernel for simplifying communication with language models.
-- The 
+This project is licensed under the MIT License
