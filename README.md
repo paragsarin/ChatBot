@@ -10,8 +10,7 @@ ChatBot is a project aimed at exploring AI development through the creation of a
 
 - Integration with GPT-4 for natural language understanding and generation.
 - Simplified communication with different language models through Semantic Kernel.
-- Support for responsible AI via built-in filters.
-- Instrumentation and metrics tracking for performance monitoring.
+
 
 ## Getting Started
 
@@ -24,12 +23,6 @@ To get started with ChatBot, follow these steps:
 5. Run the application using `dotnet run`.
 6. Visit `http://localhost:3000` in your web browser to interact with the chatbot.
 
-## Configuration
-
-ChatBot requires the following environment variables to be configured:
-
-- `OPENAI_API_KEY`: Your OpenAI API key for accessing GPT-4.
-- `SEMANTIC_KERNEL_API_KEY`: Your Semantic Kernel API key for simplified communication with language models.
 
 ## Usage
 
